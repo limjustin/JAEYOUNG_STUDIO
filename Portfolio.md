@@ -36,6 +36,6 @@
 |     겨울방학 앱 제작 프로젝트     | 2월 초 ~ 2월 말 | 이니로 동기 및 선배 |          'Inyrogram' 앱 제작 </br> Android 기반 앱 제작 </br> https://github.com/limjustin/INYROGRAM|
 |       이니로 동아리 부회장        |    3월 초 ~     |       이니로        |                  교내 프로그래밍 중앙동아리                |
 |        C프로그래밍 멘토링 (멘토)        | 3월 말 ~ 6월 말 |     이니로 후배     |          직접 강의 자료 제작하여</br> C프로그래밍1 멘토링 진행                     |
-|       2020-1학기 상생플러스       | 4월 초 ~ 6월 초 |     휴먼과 동기     | '영어 단어 학습 사이트' 웹사이트 제작 </br> Meteor, MongoDB 사용 </br>https://github.com/limjustin/Sangsaeng-Project |
+|       2020-1학기 상생플러스       | 4월 초 ~ 6월 초 |     휴먼과 동기     | '영어 단어 학습 사이트' 웹사이트 제작 </br> Meteor, MongoDB 사용</br>백엔드 부분  </br>https://github.com/limjustin/Sangsaeng-Project |
 |       알고리즘 멘토링       | 7월 중 ~  |     이니로 동기 및 선배     | 알고리즘 문제 풀이 </br> 백준 알고리즘 사이트 사용 |
 |       공개 SW 개발자 대회       | 7월 중 ~ |     이니로 동기 및 선배     | AI 관련 프로젝트 |
