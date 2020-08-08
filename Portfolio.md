@@ -1,14 +1,20 @@
 # Information
 
-이름 : 임재영 (Jaeyoung Lim)
+**Name** 
 
-학교 : 상명대학교 서울캠퍼스
+Jaeyoung Lim
 
-- 입학 : 2019년 3월
+**College**
 
-학과 : SW융합전공 휴먼지능정보공학전공
+Sangmyung University, Seoul (Entrance in March, 2019)
 
-거주지 : 경기도 수원
+**Major**
+
+Department of Human-Centered Artificial Intelligence
+
+**E-mail**
+
+limjyjustin@gmail.com
 
 </br>
 
