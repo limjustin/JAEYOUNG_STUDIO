@@ -1,20 +1,12 @@
 # Information
 
-**Name** 
-
-Jaeyoung Lim
-
-**College**
-
-Sangmyung University, Seoul (Entrance in March, 2019)
-
-**Major**
-
-Department of Human-Centered Artificial Intelligence
-
-**E-mail**
-
-limjyjustin@gmail.com
+|     Category      |                       Contents                        |
+| :---------------: | :---------------------------------------------------: |
+|     **Name**      |                     Jaeyoung Lim                      |
+|  **University**   | Sangmyung University, Seoul (Entrance in March, 2019) |
+|     **Major**     | Department of Human-Centered Artificial Intelligence  |
+|    **E-mail**     |                 limjyjustin@gmail.com                 |
+| **Interested in** |          Full Stack Developer</br> Data Analysis          |
 
 </br>
 
