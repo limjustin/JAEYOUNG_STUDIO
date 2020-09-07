@@ -38,7 +38,7 @@
    Initialized empty Git repository in C:/Users/user/Desktop/BOJ/.git/
    ```
 
-3. **git remote add origin 통해 Repository 연결 (git remove -v 통한 계정 확인은 확인용)**
+3. **git remote add origin 통해 Repository 연결 (git remote -v 통한 계정 확인은 확인용)**
 
    ```
    C:\Users\user\Desktop\BOJ>git remote add origin https://github.com/limjustin/Algorithm.git
