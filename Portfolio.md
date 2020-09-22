@@ -28,7 +28,7 @@
 |         Name of Activity          |      Term       |     Collaborate     |               Contents                |
 | :-------------------------------: | :-------------: | :-----------------: | :-----------------------------------: |
 |       Kotlin 멘토링 (멘티)        | 1월 초 ~ 1월 중 | 이니로 동기 및 선배 |                 Kotlin 언어 학습                      |
-|     [겨울방학 웹 제작 프로젝트](https://github.com/limjustin/PictureSellingSite)    | 1월 초 ~ 2월 말 |     휴먼과 동기     |   '사진 판매 사이트' 웹사이트 제작 </br> Meteor, MongoDB 사용   |
+|     [겨울방학 웹 제작 프로젝트](https://github.com/limjustin/Picture_Selling_Website)    | 1월 초 ~ 2월 말 |     휴먼과 동기     |   '사진 판매 사이트' 웹사이트 제작 </br> Meteor, MongoDB 사용   |
 |     정보처리기능사 자격증 공부     | 1월 초 ~ 3월 말 |     개인     |   합격   |
 | 안드로이드 스튜디오 멘토링 (멘티) | 1월 말 ~ 2월 초 | 이니로 동기 및 선배 |                 Android Studio 멘토링 학습               |
 |     [겨울방학 앱 제작 프로젝트](https://github.com/limjustin/INYROGRAM)     | 2월 초 ~ 2월 말 | 이니로 동기 및 선배 |          'Inyrogram' 앱 제작 </br> Android 기반 앱 제작 |
