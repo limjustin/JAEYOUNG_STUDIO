@@ -39,3 +39,4 @@
 |       공개 SW 개발자 대회       | 7월 중 ~ 9월 초 |     이니로 동기 및 선배     | AI 관련 프로젝트 </br> 웹 개발 파트(Full-Stack) 담당</br> https://github.com/limjustin/Handwriting_Correction_Website |
 | Node.js 스터디 | 9월 초 ~ | 개인 | Do it! Node.js Programming </br> 백엔드 및 서버 관련 공부 시작 |
 | C언어 심화 및 자료구조 멘토링 (멘토) | 9월 초 ~ | 이니로 |  직접 강의 자료 제작하여</br> C언어 심화 및 자료구조 멘토링 진행 |
+| Human Computer Interface Project | 9월 초 ~ | 휴먼과 동기 |   |
