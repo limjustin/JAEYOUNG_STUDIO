@@ -33,11 +33,11 @@
 | 안드로이드 스튜디오 멘토링 (멘티) | 1월 말 ~ 2월 초 | 이니로 |                 Android Studio 멘토링 학습               |
 |     [겨울방학 앱 제작 프로젝트](https://github.com/limjustin/INYROGRAM)     | 2월 초 ~ 2월 말 | 이니로 |          'Inyrogram' 앱 제작 </br> Android 기반 앱 제작 |
 |       이니로 동아리 부회장        |    3월 초 ~     |       이니로 임원진       |                  교내 프로그래밍 중앙동아리                |
-|        C프로그래밍 멘토링 (멘토)        | 3월 말 ~ 6월 말 |     이니로     |          직접 강의 자료 제작하여</br> C프로그래밍1 멘토링 진행                     |
+|        [C프로그래밍 멘토링 (멘토)](https://github.com/limjustin/Mentoring/tree/master/C%20Programming%20I)        | 3월 말 ~ 6월 말 |     이니로     |          직접 강의 자료 제작하여</br> C프로그래밍1 멘토링 진행                     |
 |       [2020-1학기 상생플러스](https://github.com/limjustin/Sangsaeng-Project)       | 4월 초 ~ 6월 초 |     휴먼지능정보공학과     | '영어 단어 학습 사이트' 웹사이트 제작 </br> Meteor, MongoDB 사용</br>백엔드 부분 코드 작성 및 관리 |
 |       알고리즘 멘토링       | 7월 중 ~ 9월 초  |     이니로     | 알고리즘 문제 풀이 </br> 백준 알고리즘 사이트 사용 |
 |       [제 14회 공개 SW 개발자 대회](https://github.com/limjustin/Handwriting_Correction_Website)       | 7월 중 ~ 9월 초 |     이니로     | AI 관련 프로젝트 </br> 웹 개발 파트(Full-Stack) 담당  |
-| Node.js 스터디 | 9월 초 ~ | 휴먼지능정보공학과 | Do it! Node.js Programming </br> 백엔드 및 서버 관련 공부 시작 |
-| C언어 심화 및 자료구조 멘토링 (멘토) | 9월 초 ~ | 이니로 |  직접 강의 자료 제작하여</br> C언어 심화 및 자료구조 멘토링 진행 |
+| [Node.js 스터디](https://github.com/limjustin/Node.js_Programming) | 9월 초 ~ | 휴먼지능정보공학과 | Do it! Node.js Programming </br> 백엔드 및 서버 관련 공부 시작 |
+| [C언어 심화 및 자료구조 멘토링 (멘토)](https://github.com/limjustin/Mentoring/tree/master/C%20Programming%20II) | 9월 초 ~ | 이니로 |  직접 강의 자료 제작하여</br> C언어 심화 및 자료구조 멘토링 진행 |
 | Human Computer Interface Project | 9월 초 ~ | 휴먼지능정보공학과 |   |
 | LINC+ 산학공동과제 참여연구원 | 10월 초 ~ | 휴먼지능정보공학과<br>이의철 교수님 연구실 |   |
