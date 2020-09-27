@@ -3,10 +3,11 @@
 |     Category      |                       Contents                        |
 | :---------------: | :---------------------------------------------------: |
 |     **Name**      |                     Jaeyoung Lim                      |
+|  **Nationality**  |                 Republic of Korea 🇰🇷                  |
 |  **University**   | Sangmyung University, Seoul (Entrance in March, 2019) |
 |     **Major**     | Department of Human-Centered Artificial Intelligence  |
 |    **E-mail**     |                 limjyjustin@gmail.com                 |
-| **Interested in** |          Full Stack Developer</br> Data Analysis          |
+| **Interested in** |        Full Stack Developer</br> Data Analysis        |
 
 </br>
 
