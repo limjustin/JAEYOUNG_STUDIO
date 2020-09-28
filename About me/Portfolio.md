@@ -19,7 +19,7 @@
 |        JAVA 스터디         |  7월 초 ~ 7월 말  |    이니로     |                       앱 개발 위한 JAVA 언어 학습                         |
 | 안드로이드 스튜디오 스터디 |  8월 초 ~ 8월 말  |    이니로     |                        Android Studio 활용하여 공부                        |
 |   [2019 서울시 앱 공모전](https://github.com/limjustin/DDUBUCK_SEOUL)    |  9월 초 ~ 9월 말  |    이니로     |                '뚜벅서울' 앱 제작 </br> Android 기반 앱 제작  |
-|     미티어 기초 멘토링     | 11월 초 ~ 11월 말 | 휴먼지능정보공학과<br>[진정원 대표님](https://github.com/kakadais) |     미티어와 웹에 관한 기초적인 스터디 진행      |
+|     [미티어 기초 멘토링](https://github.com/limjustin/SMU-WEB)     | 11월 초 ~ 11월 말 | 휴먼지능정보공학과<br>[진정원 대표님](https://github.com/kakadais) |     미티어와 웹에 관한 기초적인 스터디 진행      |
 |       [SM AI 경진대회](https://github.com/limjustin/KEYWORD_NEWS)       | 11월 초 ~ 12월 초 |     휴먼지능정보공학과     | '시각 장애인들을 위한 키워드 </br>  뉴스 프로그램' 제작</br> Python 활용 |
 
 </br>
