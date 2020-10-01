@@ -11,12 +11,12 @@
 
 </br>
 
-#### Working at
+### Working at
 
 |                          Department                          |   Term    |
 | :----------------------------------------------------------: | :-------: |
 |                SW융합학부 휴먼지능정보공학과                 | 2019.03 ~ |
-| [프로그래밍 중앙동아리 이니로(INYRO)](https://www.instagram.com/smu_inyro) | 2019.03 ~ |
+| 프로그래밍 중앙동아리 [이니로(INYRO)](https://www.instagram.com/smu_inyro) | 2019.03 ~ |
 
 <br>
 
