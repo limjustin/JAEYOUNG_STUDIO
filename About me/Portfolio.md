@@ -4,7 +4,7 @@
 | :---------------: | :----------------------------------------------------------: |
 |     **Name**      |                         Jaeyoung Lim                         |
 |  **Nationality**  | Republic of Korea <img src="https://user-images.githubusercontent.com/55044278/94357776-aa97ab80-00d6-11eb-8793-a3d6b1636c57.PNG" height = "15px"> |
-|  **University**   |    Sangmyung University, Seoul (Entrance in March, 2019)     |
+|  **University**   |                 Sangmyung University, Seoul                  |
 |     **Major**     |     Department of Human-Centered Artificial Intelligence     |
 |    **E-mail**     |                    limjyjustin@gmail.com                     |
 | **Interested in** |           Full Stack Developer</br> Data Analysis            |
@@ -17,6 +17,7 @@
 | :----------------------------------------------------------: | :-------: |
 |                SW융합학부 휴먼지능정보공학과                 | 2019.03 ~ |
 | 프로그래밍 중앙동아리 [이니로(INYRO)](https://www.instagram.com/smu_inyro) | 2019.03 ~ |
+|                        대한민국 공군                         | 2021.01 ~ |
 
 <br>
 
