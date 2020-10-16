@@ -1,26 +1,47 @@
+# Information
+
+|     Category      |                           Contents                           |
+| :---------------: | :----------------------------------------------------------: |
+|     **Name**      |                         Jaeyoung Lim                         |
+|  **Nationality**  | Republic of Korea <img src="https://user-images.githubusercontent.com/55044278/94357776-aa97ab80-00d6-11eb-8793-a3d6b1636c57.PNG" height = "15px"> |
+|  **University**   |                 Sangmyung University, Seoul                  |
+|     **Major**     |     Department of Human-Centered Artificial Intelligence     |
+|    **E-mail**     |                    limjyjustin@gmail.com                     |
+| **Interested in** |           Full Stack Developer</br> Data Analysis            |
+
+</br>
+
+
+
 # Skills
 
 Strong : C, Javascript
 
-Experienced : C++, JAVA, Python, Node, Express
+Experienced : C++, JAVA, Kotlin, Python, Node, Express
 
 <br/>
+
+
 
 # Experience
 
 **LINC+ Industrial-Academic Project** | Researcher | 2020 Oct |
 
-**University Mentoring** | Mentor | 2020 Mar & Sep |
+**Programming Mentoring as Mentor in INYRO**  | Mentor | 2020 Mar & Sep |
 
 <br/>
 
+
+
 # Projects
 
-**Human Computer Interface** | Project Sub Leader | 2020 Nov |
+**Human Computer Interface** | Project Sub Leader | 2020.09 ~ 2020.12 |
 
-**Handwriting Correction Website** | Full Stack Engineer | 2020 Aug |
+<br>
 
-*Python CNN Model and Web Application*
+**Handwriting Correction Website** | Full Stack Engineer | 2020.07 ~ 2020.08 |
+
+*Python CNN Model and Javascript Web Application*
 
 - 인공지능 모델을 사용하여 사용자의 손글씨를 인식하고 손글씨를 교정할 수 있는 웹사이트
 - Full Stack Development
@@ -33,7 +54,9 @@ Experienced : C++, JAVA, Python, Node, Express
   - sessionStorage 사용하여 화면 간 데이터 주고 받을 수 있는 방법 연구 및 구현
   - 페이지 UI 구성
 
-**LEWA** | Project Sub Leader | 2020 May |
+<br>
+
+**LEWA** | Project Sub Leader | 2020.04 ~ 2020.06 |
 
 *Meteor Server Web Application*
 
@@ -43,7 +66,9 @@ Experienced : C++, JAVA, Python, Node, Express
 - Meteor.call( ) 메소드를 사용하여 Client와 Server 간 데이터 전송 관리
 - Server Side 전체적인 알고리즘 설계
 
-**Picture Selling Website** | Project Leader | 2020 Feb |
+<br>
+
+**Picture Selling Website** | Project Leader | 2020.01 ~ 2020.02 |
 
 *Meteor Server Web Application*
 
@@ -52,26 +77,30 @@ Experienced : C++, JAVA, Python, Node, Express
 - 한 화면 안에서 다양한 데이터 처리 및 가공 방법 연구
 - 웹 사이트 전체적인 알고리즘 설계
 
-**Inyrogram** | Sub Coder | 2020 Feb |
+**Inyrogram** | Sub Coder | 2020.01 ~ 2020.02 |
 
-*Android App*
+*Android Application*
 
 - Instagram 카피 앱
 - Activity 기본 구성
 - Firebase 기초 구성 작업 및 연동
 - Firebase에 글 Posting 하는 작업 담당
 
-**Keyword News Program** | Sub Coder and Designer | 2019 Nov |
+<br>
 
-*Python Program*
+**Keyword News Program** | Sub Coder and Designer | 2019.11 ~ 2019.12 |
+
+*Python Programming*
 
 - 온라인 기사의 키워드 추출 후 음성으로 변환해주는 프로그램
 - 형태소 분석 API 조사
 - PyQt 구성 및 디자인 작업
 
-**DDUBUCK SEOUL** | Project Sub Leader | 2019 Sep |
+<br>
 
-*Android App*
+**DDUBUCK SEOUL** | Project Sub Leader | 2019.08 ~ 2019.09 |
+
+*Android Application*
 
 - 서울시 관광 명소 코스를 추천해주는 워킹투어 앱
 - Google Map API를 사용하여 원하는 위치에 Pin을 꽂는 작업
@@ -79,12 +108,18 @@ Experienced : C++, JAVA, Python, Node, Express
 
 <br/>
 
-# Education
 
-**Sangmyung University (Seoul)** | Department of Human-Centered Artificial Intelligence
+
+# Activity
+
+**상명대학교 프로그래밍 중앙동아리 이니로(INYRO)**
+
+- **멘토링 활동 (2020.03 ~ )**
+  - 2020학년도 1학기에 같은 과 후배들을 대상으로 C프로그래밍1 멘토링 진행
+  - 2020학년도 2학기에 같은 과 후배들을 대상으로 C프로그래밍2, 자료구조 기초 멘토링 진행
+- **임원진 부회장 (2020.03 ~ )**
+  - 컨텐츠 기획, 문서 작업 및 관리, 포스터 제작 등 동아리 운영에 직접적인 관여
 
 <br/>
 
-# Personal
-
-Interested in Baseball
+**LINC+ 산학공동과제 참여 연구원**
