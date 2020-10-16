@@ -29,6 +29,8 @@ Experienced : C++, JAVA, Kotlin, Python, Node, Express
 
 <br>
 
+----------
+
 **Handwriting Correction Website** | Full Stack Engineer | 2020.07 ~ 2020.08 |
 
 *Python CNN Model and Javascript Web Application*
@@ -48,7 +50,7 @@ Experienced : C++, JAVA, Kotlin, Python, Node, Express
 
 **소스 코드** : https://github.com/limjustin/Handwriting_Correction_Website
 
-<br>
+----------
 
 **LEWA** | Project Sub Leader | 2020.04 ~ 2020.06 |
 
@@ -64,7 +66,7 @@ Experienced : C++, JAVA, Kotlin, Python, Node, Express
 
 **소스 코드** : https://github.com/limjustin/LEWA
 
-<br>
+----------
 
 **Picture Selling Website** | Project Leader | 2020.01 ~ 2020.02 |
 
@@ -79,7 +81,8 @@ Experienced : C++, JAVA, Kotlin, Python, Node, Express
 - 웹 사이트 전체적인 알고리즘 설계
 
 **소스 코드** : https://github.com/limjustin/Picture_Selling_Website
-<br>
+
+----------
 
 **Inyrogram** | Sub Coder | 2020.01 ~ 2020.02 |
 
@@ -95,7 +98,7 @@ Experienced : C++, JAVA, Kotlin, Python, Node, Express
 
 **소스 코드** : https://github.com/limjustin/INYROGRAM
 
-<br>
+----------
 
 **Keyword News Program** | Sub Coder and Designer | 2019.11 ~ 2019.12 |
 
@@ -110,7 +113,7 @@ Experienced : C++, JAVA, Kotlin, Python, Node, Express
 
 **소스 코드** : https://github.com/limjustin/KEYWORD_NEWS
 
-<br>
+----------
 
 **DDUBUCK SEOUL** | Project Sub Leader | 2019.08 ~ 2019.09 |
 
