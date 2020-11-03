@@ -50,5 +50,5 @@
 |       [제 14회 공개 SW 개발자 대회](https://github.com/limjustin/Handwriting_Correction_Website)       | 7월 중 ~ 9월 초 |     이니로     | AI 관련 프로젝트 </br> 웹 개발 파트(Full-Stack) 담당  |
 | [Node.js 스터디](https://github.com/limjustin/Node.js_Programming) | 9월 초 ~ | 휴먼지능정보공학과 | Do it! Node.js Programming </br> 백엔드 및 서버 관련 공부 시작 |
 | [C언어 심화 및 자료구조 멘토링 (멘토)](https://github.com/limjustin/Mentoring/tree/master/C%20Programming%20II) | 9월 초 ~ | 이니로 |  직접 강의 자료 제작하여</br> C언어 심화 및 자료구조 멘토링 진행 |
-| Human Computer Interface Project | 9월 초 ~ | 휴먼지능정보공학과 |   |
-| LINC+ 산학공동과제 참여연구원 | 10월 초 ~ | 휴먼지능정보공학과<br>이의철 교수님 연구실 |   |
+| Human Computer Interface Project | 9월 초 ~ | 휴먼지능정보공학과 | 얼굴과 제스처 인식을 통한 비대면 상호작용 강의 시스템 |
+| LINC+ 산학공동과제 참여연구원 | 10월 초 ~ | 휴먼지능정보공학과<br>이의철 교수님 연구실 | 지폐 내 숫자들 라벨링하는 작업<br>Jupyter Notebook와 Python 활용하여 작업 진행 |

@@ -162,3 +162,6 @@ Experienced : C++, JAVA, Kotlin, Python, Node, Express
 ----------
 
 **LINC+ 산학공동과제 참여 연구원**
+
+- **지폐 라벨링 작업 (2020.11 ~ )**
+  - Python 코드 활용하여 지폐 라벨링 작업 진행
