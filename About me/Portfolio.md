@@ -52,3 +52,4 @@
 | [C언어 심화 및 자료구조 멘토링 (멘토)](https://github.com/limjustin/Mentoring/tree/master/C%20Programming%20II) | 9월 초 ~ | 이니로 |  직접 강의 자료 제작하여</br> C언어 심화 및 자료구조 멘토링 진행 |
 | Human Computer Interface Project | 9월 초 ~ | 휴먼지능정보공학과 | 얼굴과 제스처 인식을 통한 비대면 상호작용 강의 시스템 |
 | LINC+ 산학공동과제 참여연구원 | 10월 초 ~ | 휴먼지능정보공학과<br>이의철 교수님 연구실 | 지폐 내 숫자들 라벨링하는 작업<br>Jupyter Notebook와 Python 활용하여 작업 진행 |
+| [2020 INYRO UN-TACT SEMINAR](https://github.com/limjustin/2020_INYRO_UNTACT_SEMINAR) | 11월 중 | 이니로 | Github과 관련한 주제로 실시간 언택트 세미나 진행<br>'깃허브 명령어 사용법과 개인 포트폴리오 관리' 라는 주제로 발표 |
