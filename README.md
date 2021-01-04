@@ -1,4 +1,4 @@
-# Coding-Story
+# JAEYOUNG_STUDIO
 My daily life, my plans and my records.
 
 <br>
